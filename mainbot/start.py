@@ -11,8 +11,8 @@ async def start(mainbot, message):
     photo = {},
     caption = f"Hola {message.from_user}, I am the horrifying Annabelle userbot made for [this person](t.me/user?id={MY_ID}). The messages you send here will be forwarded to my master",
     reply_markup = InlineKeyboardMarkup([
-      [InlineKeyboardMarkup("Deploy your own bot", url="https://github.com/AnnabelleTG/Annabelle")],
-      [InlineKeyboardButton("Support Channel", url="t.me/annabelleUB"), InlineKeyboardButton("Group", url="https://t.me/AnnaBelleSupportChat")]
+      [InlineKeyboardMarkup("Contact bot Owner 😉", url="http://t.me/Keerthy_Admin_Bot")],
+      [InlineKeyboardButton("Support Channel", url="t.me/+1qdEeHOTLdQ1M2Vl"), InlineKeyboardButton("Group", url="https://t.me/+CG7AQS6IfUNhYTNl")]
       ])
   )
     
